@@ -1,0 +1,11 @@
+id;placed_date;status;code;invoice_id;customer_id
+1;2021-01-02T08:54:14;COMPLETED;Georgia calculate withdrawal;88795;1
+2;2021-01-02T08:30:59;CANCELLED;background Incredible Soft Bacon withdrawal;68518;2
+3;2021-01-01T17:48:07;COMPLETED;real-time;88753;3
+4;2021-01-02T01:52:16;COMPLETED;Square Regional;82542;4
+5;2021-01-02T07:43:24;PENDING;maroon Decentralized Bike;98183;5
+6;2021-01-02T00:07:06;COMPLETED;program;52549;6
+7;2021-01-02T14:23:01;COMPLETED;target;30578;7
+8;2021-01-02T12:31:07;CANCELLED;input;43284;8
+9;2021-01-02T12:57:09;CANCELLED;multi-byte Croatian Kuna RAM;99134;9
+10;2021-01-02T14:02:14;COMPLETED;National lavender;4674;10
